@@ -1,3 +1,4 @@
 name: CoinsAPI
 version: 1.0.0
 author: Fedee
+depend: CoinsAPINB
